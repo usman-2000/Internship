@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<?xml version="1.0" encoding="UTF-8"?>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h2>Coffee Shop</h2>
+    <p id="demo"></p>
+
+    <!-- <ul id="list"> -->
+    <!-- <li id="demo1"></li> -->
+    <!-- <li id="demo2"></li>
+        <li id="demo3"></li>
+        <li id="demo4"></li>
+        <li id="demo5"></li>
+        <li id="demo6"></li>
+        <li id="demo7"></li>
+        <li id="demo8"></li> -->
+    <!-- </ul> -->
+    <!-- <li>ashda</li> -->
+
+    <ul id="titles"></ul>
+
+    <div id="app"></div>
+  </body>
+  <script>
+    // var xhttp = new XMLHttpRequest();
+    // xhttp.onreadystatechange = function () {
+    //   if (this.readyState == 4 && this.status == 200) {
+    //     myFunction(this);
+    //   }
+    // };
+    // xhttp.open("GET", "/new.xml", true);
+    // xhttp.send();
+
+    // function myFunction(xml) {
+    //   var x, i, xmlDoc, txt;
+    //   xmlDoc = xml.responseXML;
+    //   txt = "";
+    //   x = xmlDoc.getElementsByTagName("channel");
+    //   for (i = 0; i < x.length; i++) {
+    //     txt += x[i].childNodes[0].nodeValue + "<br>";
+    //   }
+    //   document.getElementById("demo").innerHTML = txt;
+    // }
+
+    // new XMLHttpRequest()
+    // document.addEventListener('DOMContentLoaded',()=>{
+    //     let url = 'new.xml'
+    //     fetch(url)
+    //     .then(response=>response.text())
+    //     .then(data=>{
+    //         // console.log(data)
+    //         let parser = new DOMParser();
+    //         let xml = parser.parseFromString(data,"application/xml")
+    //         // document.getElementById("demo").textContent = data
+    //         console.log(xml)
+    //         titleList(xml)
+    //     })
+    // })
+
+    // function titleList(x){
+    //     let list = document.getElementById("channel")
+    //     let titles = x.getElementsByTagName("title")
+    //     for(let i = 0;i < titles.length;i++){
+    //         let li = document.createElement('li')
+    //         let title = titles[i].firstChild.nodeValue
+    //         li.textContent=title
+    //         list.appendChild(li)
+
+    //     }
+    // }
+
+    // var request = new XMLHttpRequest();
+    // request.open("GET","new.xml",false)
+    // request.send()
+
+    // var xml = request.responseXML;
+    // var channels = xml.getElementsByTagName('channel');
+    // for(var i = 0;i<channels.length;i++){
+    //     var channel = channels[i]
+    //     var titles = channel.getElementsByTagName('title')
+    //     for(var j = 0;j<titles.length;j++){
+    //         console.log(titles[j].childNodes[0].nodeValue)
+    //     }
+    // }
+
+    // function show(data) {
+    //   var app = document.querySelector("#app")
+    //   app.innerHTML = "<ul>" + data.map((e,i)=>{
+    //       return "<li>" + e.name + "</li>"
+    //   }).join('') + "</ul>"
+    // }
+
+    // var text,xmldoc,parser;
+    // text = "<Student>"+
+    //     "<Name> Usman Rahim </Name>"+
+    //     "<Institute> UBIT </Institute>"+
+    //     "<Age> 22 </Age>"+
+    //     "</Student>"
+
+    // parser = new DOMParser();
+    // xmldoc = parser.parseFromString(text,"text/xml")
+
+    // document.getElementById("demo").innerHTML = xmldoc.getElementsByTagName('Institute')[0].childNodes[0].nodeValue;
+
+    // let api_url =
+    //   "http://universities.hipolabs.com/search?country=United+States";
+
+    // async function getApi(url) {
+    //   const response = await fetch(url);
+    //   var data = await response.json;
+    //   console.log(data);
+
+    //   show(data);
+    // }
+
+    // getApi(api_url);
+
+    // function show(data) {
+    //   var app = document.querySelector("#app")
+    //   app.innerHTML = "<ul>" + data.map((e,i)=>{
+    //       return "<li>" + e.name + "</li>"
+    //   }).join('') + "</ul>"
+    // }
+
+    // let data =
+    //   '{"products":['+
+    //   '{"Name":"sightglass coffee"},'+
+    //   '{"Name":"Dunkin"},'+
+    //   '{"Name":"Coffee MCO"},'+
+    //   '{"Name":"Alchemist Coffee project"},'+
+    //   '{"Name":"Delicious coffee"},'+
+    //   '{"Name":"sightglass coffee"},'+
+    //   '{"Name":"sightglass coffee"},'+
+    //   '{"Name":"sightglass coffee"},'+
+    //   '{"Name":"sightglass coffee"}]}'
+
+    // var obj = JSON.parse(data);
+    // console.log(obj);
+
+    // var app = document.querySelector("#app")
+    // app.innerHTML = "<ul>" + obj.products.map((e,i)=>{
+    //     return "<li>" + e.Name + "</li>"
+    // }).join('') + "</ul>"
+
+    // document.getElementById("demo1").innerHTML = obj.products.map((e,i)=>{
+    //     return e.Name
+    // })
+    // var list =  document.getElementById("list")
+    // var li = document.createElement("li")
+    // list.appendChild(li)
+
+    // obj.products.map((e,i)=>{
+    //     return li.innerHTML = e.Name
+    // })
+    // document.getElementById("demo2").innerHTML = obj.products[1].Name
+    // document.getElementById("demo3").innerHTML = obj.products[2].Name
+    // document.getElementById("demo4").innerHTML = obj.products[3].Name
+    // document.getElementById("demo5").innerHTML = obj.products[4].Name
+    // document.getElementById("demo6").innerHTML = obj.products[5].Name
+    // document.getElementById("demo7").innerHTML = obj.products[6].Name
+    // document.getElementById("demo8").innerHTML = obj.products[7].Name
+  </script>
+</html>

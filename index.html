@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p id="demo"></p>
+    
+</body>
+<script>
+    const people = [
+    {
+       firstName: "Joe",
+       lastName: "Jackson",
+       gender: "male",
+       age: 28,
+       number: "7349282382"
+    },
+    {
+       firstName: "James",
+       lastName: "Smith",
+       gender: "male",
+       age: 32,
+       number: "5678568567"
+    },
+    {
+       firstName: "Emily",
+       lastName: "Jones",
+       gender: "female",
+       age: 24,
+       number: "456754675"
+    }
+  ]
+
+
+  let reduced = people.reduce((currentVal,changingVal,index)=>{
+   return changingVal;
+  })
+  console.log(reduced)
+
+
+//   let mapped = people.map((value,index)=>{
+//    return (value.firstName);
+//   })
+//   document.getElementById("demo").innerHTML= mapped;
+
+
+//   let findAge = people.forEach((value,index)=>{
+//    document.write(value.firstName+" "+ value.lastName+" | ");
+//   })
+
+
+//   let arr1 = people.forEach((value,index)=>{
+//    console.log(value.age+= 30);
+// })
+
+//    let arr2 = people.forEach((value) => {
+//       console.log(value.gender=="female")
+//    });
+//    let arr3 = people.filter((value)=>{
+//       console.log(value.gender=="female")
+//    })
+
+
+//   let isAnyFemale = people.filter((value,index)=>{
+//    return value.gender =="female"
+//   })
+//   console.log(isAnyFemale)
+
+//   let addingAge = people.forEach((value,index)=>{
+//     console.log(value.age +=10);
+//   })
+
+
+
+//   let everyFind = people.every((value,index)=>{
+//     return value.age >33;
+//   })
+//   console.log(everyFind)
+
+//   let someFind = people.some((value,index)=>{
+//     return value.firstName=="USman";
+//   })
+//   console.log(someFind)
+
+// let findVal = people.find((value,index)=>{
+//     return value.age>24;
+// })
+// console.log(findVal)
+
+
+// let findVal1 = people.find((value,index)=>{
+//     return value.lastName=="Jones";
+// })
+// console.log(findVal1)
+
+// let findIndex1 = people.findIndex((value,index)=>{
+//     return value.gender =="female"
+// })
+
+// document.getElementById("demo").innerHTML= findIndex1
+
+// let filtering = people.filter((value,index)=>{
+//     return value.gender == "male"
+// })
+// console.log(filtering)
+// document.getElementById("demo").innerHTML =filtering
+
+
+// let findVal = people.filter((value,index)=>{
+//     return value.age>24;
+// })
+// console.log(findVal)
+
+// let findInd = people.filter((value,index)=>{
+//     return(document.write(value.age >24))
+// })
+
+</script>
+</html>

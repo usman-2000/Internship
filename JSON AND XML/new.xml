@@ -1,0 +1,153 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - London]]></title>
+        <description><![CDATA[BBC News - London]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - London</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 05 Dec 2022 11:00:02 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Newham event remembers Londoners killed by violence]]></title>
+            <description><![CDATA[The event was organised by the family of Jan Mustafa, who was murdered in Newham in 2018.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-63856646?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-63856646</guid>
+            <pubDate>Mon, 05 Dec 2022 07:38:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man sought after dog attack on 11-year-old girl in Tower Hamlets]]></title>
+            <description><![CDATA[The girl was walking to school in east London when the "shocking" attack left her in hospital.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-63858019?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-63858019</guid>
+            <pubDate>Mon, 05 Dec 2022 10:20:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Train strikes: RMT union rejects offer to stop Christmas walkouts]]></title>
+            <description><![CDATA[Talks between the RMT and train operators aimed at halting the walkouts are expected to continue.]]></description>
+            <link>https://www.bbc.co.uk/news/business-63853669?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-63853669</guid>
+            <pubDate>Mon, 05 Dec 2022 10:34:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Raheem Sterling leaves England World Cup squad after armed break-in at family home]]></title>
+            <description><![CDATA[Raheem Sterling is leaving the England World Cup squad in Qatar after a break-in that occurred at his home in the UK while his family were in.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/63854197?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/63854197</guid>
+            <pubDate>Sun, 04 Dec 2022 22:54:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PwC to close offices at Christmas to save energy]]></title>
+            <description><![CDATA[Staff at the accountancy firm won't be able to work from its main London office over the festive period.]]></description>
+            <link>https://www.bbc.co.uk/news/business-63857339?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/business-63857339</guid>
+            <pubDate>Mon, 05 Dec 2022 10:48:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Knightsbridge steakhouse: Animal rebellion activists removed from site]]></title>
+            <description><![CDATA[Two demonstrations were held in upmarket restaurants in London and Manchester on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-63850883?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-63850883</guid>
+            <pubDate>Sun, 04 Dec 2022 17:33:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ngozi Fulani: Dialogue held over Buckingham Palace remarks, BBC told]]></title>
+            <description><![CDATA[Ngozi Fulani told the BBC her encounter with Lady Susan Hussey was like an "interrogation".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-63850466?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-63850466</guid>
+            <pubDate>Sun, 04 Dec 2022 14:32:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Museum of London closes Barbican venue ahead of move]]></title>
+            <description><![CDATA[The museum is moving down the road to West Smithfield and hopes to have its grand reopening in 2026.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-63833482?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-63833482</guid>
+            <pubDate>Sun, 04 Dec 2022 07:57:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Police watchdog head Michael Lockwood resigns amid investigation]]></title>
+            <description><![CDATA[The home secretary says Michael Lockwood is the subject of a probe into a historical allegation.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-63848998?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-63848998</guid>
+            <pubDate>Sat, 03 Dec 2022 22:20:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ngozi Fulani: Lady Susan Hussey's race comments were abuse, says charity boss]]></title>
+            <description><![CDATA[Ngozi Fulani tells the BBC her encounter with Lady Susan Hussey was like an "interrogation".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-63819482?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-63819482</guid>
+            <pubDate>Thu, 01 Dec 2022 19:16:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Woman’s harasser caught using new police software]]></title>
+            <description><![CDATA[Leena’s ex-boyfriend was brought to justice with the help of new software used by Met Police detectives.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-63800461?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-63800461</guid>
+            <pubDate>Wed, 30 Nov 2022 06:26:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dread Broadcasting Corporation: The pirate that changed British radio]]></title>
+            <description><![CDATA[Europe's first dedicated black music station, Dread Broadcasting Corporation]]></description>
+            <link>https://www.bbc.co.uk/news/stories-63746512?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/stories-63746512</guid>
+            <pubDate>Sun, 27 Nov 2022 00:43:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet the London property developer turned beekeeper]]></title>
+            <description><![CDATA[Khalid Undre started with six hives and says more beehives and keepers are needed in the capital.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-63647247?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-63647247</guid>
+            <pubDate>Tue, 22 Nov 2022 06:22:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BBC London Privacy Notice]]></title>
+            <description><![CDATA[BBC London Privacy Notice]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-58872159?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-london-58872159</guid>
+            <pubDate>Mon, 25 Oct 2021 10:37:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reading 1-0 Tottenham: Amy Turner own goal gives Royals second win of WSL season]]></title>
+            <description><![CDATA[Reading move seven points clear of the Women's Super League relegation zone as Amy Turner's first-half own goal gives them victory over Tottenham.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/63771049?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/63771049</guid>
+            <pubDate>Sun, 04 Dec 2022 14:57:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Liverpool 2-0 West Ham: Dominant Reds claim first WSL win since opening day]]></title>
+            <description><![CDATA[Liverpool claim a first Women's Super League win since the opening day of the season with a commanding win at home to West Ham.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/63771046?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/63771046</guid>
+            <pubDate>Sun, 04 Dec 2022 16:20:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tyson Fury v Derek Chisora: 'Gypsy King' retains WBC world heavyweight title as Oleksandr Usyk watches ringside]]></title>
+            <description><![CDATA[Tyson Fury retains his WBC world heavyweight title with a brutal 10th-round stoppage of Derek Chisora and set up a potential undisputed showdown with Oleksandr Usyk.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/63846783?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/boxing/63846783</guid>
+            <pubDate>Sat, 03 Dec 2022 23:28:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sunderland 3-0 Millwall: Black Cats roar into life in rousing second half]]></title>
+            <description><![CDATA[Sunderland's rousing second-half display secures a convincing Championship victory against Millwall.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/62776149?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/62776149</guid>
+            <pubDate>Sat, 03 Dec 2022 16:20:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Premiership: London Irish 39-17 Newcastle Falcons: Exiles off bottom]]></title>
+            <description><![CDATA[London Irish move off the bottom of the Premiership with a pulsating win over Newcastle Falcons.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/63836845?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/63836845</guid>
+            <pubDate>Sat, 03 Dec 2022 22:04:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
