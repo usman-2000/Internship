@@ -1,0 +1,4 @@
+[submodule "."]
+	url = https://github.com/usman-2000/Internship.git
+[submodule "./couunter-app"]
+	url = https://github.com/usman-2000/Internship.git
